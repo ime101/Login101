@@ -41,7 +41,7 @@ void login_checker(int code) {
 int main() {
     int code;
     system("clear");
-    printf("******BY SAMIP-101******\n");
+    printf("******WELCOME******\n");
     printf("Enter the code to access the program: ");
     if (scanf("%d", &code) == 0) {
         printf("Not allowed\n");
